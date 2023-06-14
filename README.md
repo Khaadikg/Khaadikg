@@ -2,7 +2,7 @@
 - 👀 I’m interested in Reading
 - 🌱 I’m currently learning JAVA/SPRING/WEB STUFF
 - 💞️ I’m looking to collaborate on interests
-- 📫 How to reach me / don't mind I will reach you 
+- 📫 How to reach me / don't mind I will reach you by myself
 
 <!---
 Khaadikg/Khaadikg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
