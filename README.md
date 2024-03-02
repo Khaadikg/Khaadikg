@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khaadikg
 - 👀 I’m interested in Reading
-- 🌱 I’m currently learning JAVA/SPRING/WEB STUFF
+- 🌱 I’m currently getting advance in WEB STUFF
 - 💞️ I’m looking to collaborate on interests
 - 📫 How to reach me / don't mind I will reach you by myself
 
